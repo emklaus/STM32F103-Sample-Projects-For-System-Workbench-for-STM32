@@ -1,0 +1,2 @@
+Look here for suggestions about the STM32F103 projects and their use.
+STM32F103_GPIO01 - Start Here with the simplist "BLINK the LED" project. Get this working and use as a template for other projects.
