@@ -1,2 +1,18 @@
 Look here for suggestions about the STM32F103 projects and their use.
+
 STM32F103_GPIO01 - Start Here with the simplist "BLINK the LED" project. Get this working and use as a template for other projects.
+STM32F103_24C02       Use I2c to interface with a 24C02 EEPROM
+STM32F103_5110        Drive a NOKIA 5110 84x48 LCD  display
+STM32F103_7SEG        Drive a single digit 7 segment LED display
+STM32F103_ADC         Read analog voltage using A/D converter
+STM32F103_EXTIx       Simple external interrupt example
+STM32F103_LCDx        Drive a standard 16x2 LCD
+STM32F103_RTC         Use the Real Time Clock component and writing to flash memory
+STM32F103_SERVOx      Example that drives 4 RC servo motors
+STM32F103_TIMx        Example using timer TIM3 to generate PWM driving an LED
+STM32F103_USARTx      Basic template that implements a blinking LED and USART menu
+STM32F103_VCPx        Use the on-board USB to create a Virtual COM port. A fun/useful project. (Requires the STM VCP Driver) 
+STM32F103_VGA1        Generate a VGA signal. Another fun project. 
+STM32F103_WAV         PCM to play .WAV files that have been stored in flash memory
+
+STM32flash_Windosw.zip          Windows version of serial flash programmer utility (includes .exe)
